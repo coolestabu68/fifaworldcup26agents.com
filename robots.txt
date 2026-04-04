@@ -1,0 +1,11 @@
+# robots.txt for fifaworldcup26agents.com
+# FIFA World Cup 26 Official Sales Agents Directory
+
+User-agent: *
+Allow: /
+
+# Block access to any sensitive files
+Disallow: /files/site.webmanifest
+
+# Sitemap location
+Sitemap: https://fifaworldcup26agents.com/sitemap.xml
